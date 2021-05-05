@@ -40,7 +40,6 @@ while(True):
         else:
             lives-=1
             display(lives)
-        print(answer)
     e=input("Press c to continue \n")
     if(e!="c"):
         break
